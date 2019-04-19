@@ -1,2 +1,3 @@
 static varible
-local variable
+local variabl
+hi
