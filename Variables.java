@@ -1,0 +1,2 @@
+static varible
+local variable
